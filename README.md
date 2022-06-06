@@ -6,8 +6,8 @@ _Lite Code Editor for writing web page or code by js._
 
 ### Plans:
 
-1. [ ] Add Layouts optional as: __(1/3, 2/2, 1/2)__
-2. [ ] Add Save progress as templates
+1. [ ] Add Layouts optional: _in progress_
+2. [ ] Add Save progress as templates: _in progress_
 3. [ ] Add Modes:
    1. [ ] **Vue.js** 
    2. [ ] **React | jsx**
