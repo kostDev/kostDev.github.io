@@ -2,7 +2,11 @@
 
 _Lite Code Editor for writing web page or code by js._
 
-![Web Editor look](screenshot.png)
+### Editor:
+![Web Editor look](screenshots/pic1.png)
+
+### Editor (layout: js-only):
+![Web Editor js-only](screenshots/pic2.png)
 
 ### Plans:
 
